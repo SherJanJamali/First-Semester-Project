@@ -1,2 +1,2 @@
-# First-Semester-Project
-My first semester C++ project, built using loops,conditional statements, and functions.
+# University Projects 🎓  
+This repository contains my university projects from various courses. It serves as a collection of my learning journey and programming practice. 
